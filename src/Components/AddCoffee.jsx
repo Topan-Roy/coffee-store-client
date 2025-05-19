@@ -57,7 +57,7 @@ const AddCoffee = () => {
                     </fieldset>
                     <fieldset className="fieldset bg-base-200 border-base-300 rounded-box  border p-4">
                     <label className="label">details</label>
-                    <input type="text" name='Details' className="input w-full" placeholder="Enter coffee details" />
+                    <input type="text" name='details' className="input w-full" placeholder="Enter coffee details" />
                     </fieldset>
                     
                 </div>
